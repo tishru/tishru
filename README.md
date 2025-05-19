@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Shruti Wakchoure
 
-<!--
-**tishru/tishru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science (Graduating May 2025) | 📍 Boulder, Colorado
 
-Here are some ideas to get you started:
+I'm passionate about transforming complex data into meaningful insights. Whether it's building predictive models, crafting compelling visualizations, or uncovering hidden patterns, I thrive on turning data into impactful stories. When I'm not immersed in data, you might find me experimenting in the kitchen or volunteering for causes close to my heart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+
+- 📫 Email: [shrutisunilwakchoure@gmail.com](mailto:shrutisunilwakchoure@gmail.com)
+- 🌐 Portfolio: [tishru.github.io/portfolio](https://tishru.github.io/portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/shrutiwakchoure](https://www.linkedin.com/in/shrutiwakchoure)
+
+---
+
+Thanks for stopping by! 🚀
