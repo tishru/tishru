@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Shruti Wakchoure
 
-🎓 MS in Data Science (Graduating May 2025) | 📍 Boulder, Colorado
+🎓 MS in Data Science from the Univeristy of Colorado Boulder
 
 I'm passionate about transforming complex data into meaningful insights. Whether it's building predictive models, crafting compelling visualizations, or uncovering hidden patterns, I thrive on turning data into impactful stories. When I'm not immersed in data, you might find me experimenting in the kitchen or volunteering for causes close to my heart.
 
----
+💼 Currently open to data science, analytics, or visualization roles where I can grow, contribute, and make meaningful impact. Let's connect!
+
 
 ## 🔗 Connect with Me
 
@@ -14,4 +15,4 @@ I'm passionate about transforming complex data into meaningful insights. Whether
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
